@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot Web Spring Security
+Implementation-Version: 1.0
+Built-By: deepak.k
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_202
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ web-spring-security/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
